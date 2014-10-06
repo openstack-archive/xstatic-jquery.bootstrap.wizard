@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Akihiro Motoki <motoki@da.jp.nec.com>
+Workflow+1: Akihiro Motoki <motoki@da.jp.nec.com>
+Code-Review+2: Julie Pichon <jpichon@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 06 Oct 2014 07:26:36 +0000
+Reviewed-on: https://review.openstack.org/113286
+Project: stackforge/xstatic-jquery.bootstrap.wizard
+Branch: refs/heads/master
