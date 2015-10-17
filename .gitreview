@@ -1,4 +1,4 @@
 [gerrit]
 host=review.openstack.org
 port=29418
-project=stackforge/xstatic-jquery.bootstrap.wizard.git
+project=openstack/xstatic-jquery.bootstrap.wizard.git
