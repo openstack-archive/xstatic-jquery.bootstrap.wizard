@@ -12,3 +12,7 @@ the XStatic base package, if you like.
 
 You can find more info about the xstatic packaging way in the package `XStatic`.
 
+Repository
+-------------
+
+* https://git.openstack.org/cgit/openstack/xstatic-jquery.bootstrap.wizard
